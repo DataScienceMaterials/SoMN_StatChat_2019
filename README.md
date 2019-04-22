@@ -2,18 +2,28 @@
 ### Data Science Pedagogy
 
 When: April 26, 2019
+
 Where: St. Olaf College, Northfield, MN
 
-Schedule:
+## Schedule:
 
-4:00 Socializing and Hors d'Oeuvres
+4:00-4:30 Socializing and Hors d'Oeuvres
 
-4:30 Breakout Session #1: Designing effective in-class learning activities led by Chris Malone, Winona State, and Amelia McNamara, St. Thomas
+4:30-5:30 Breakout Session #1: Designing effective in-class learning activities led by Chris Malone, Winona State, and Amelia McNamara, St. Thomas
 
-5:30 Dinner
+5:30-6:00 Dinner
 
-6:00 Keynote Speaker: Charlotte Wickham "The human side of data science"
+6:00-7:00 Keynote Speaker: Charlotte Wickham "The human side of data science"
 
-7:00  Breakout Session #2: Assessment of learning outcomes led by Todd Iverson, Winona State, and Wei Wei, Metro State
+7:00-8:00  Breakout Session #2: Assessment of learning outcomes led by Todd Iverson, Winona State, and Wei Wei, Metro State
 
 8:00  Informal Social gathering at Imminent Brewing in Northfield following the program.
+
+
+## Organizers:
+
+Adam Loy, Carleton College, email: aloy at carleton.edu
+
+Paul Roback, St. Olaf College, email: roback at stolaf.edu
+
+Katie St. Clair, Carleton College, email: kstclair at carleton.edu
