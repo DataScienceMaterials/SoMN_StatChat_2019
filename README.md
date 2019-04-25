@@ -15,7 +15,7 @@ Where: St. Olaf College, Northfield, MN
 
 6:00-7:00 Keynote Speaker: Charlotte Wickham "The human side of data science"
 
-7:00-8:00  Breakout Session #2: [Assessment of learning outcomes](breadout_assessment.md)
+7:00-8:00  Breakout Session #2: [Assessment of learning outcomes](breakout_assessment.md)
 
 8:00  Informal Social gathering at Imminent Brewing in Northfield following the program.
 
