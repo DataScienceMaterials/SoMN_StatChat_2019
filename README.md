@@ -15,7 +15,7 @@ Location: Room 210, [Regents Hall of Natural Sciences](http://map.stolaf.edu/map
 
 5:30-6:00 Dinner
 
-6:00-7:00 Keynote Speaker: Charlotte Wickham "The human side of data science"
+6:00-7:00 Keynote Speaker: [Charlotte Wickham](https://www.cwick.co.nz/) "The human side of data science"
 
 7:00-8:00  Breakout Session #2: [Assessment of learning outcomes](breakout_assessment.md)
 
@@ -24,7 +24,7 @@ Location: Room 210, [Regents Hall of Natural Sciences](http://map.stolaf.edu/map
 
 ## Organizers:
 
-Adam Loy, Carleton College, email: aloy@carleton.edu
+[Adam Loy](https://aloy.rbind.io/), Carleton College, email: aloy@carleton.edu
 
 Paul Roback, St. Olaf College, email: roback@stolaf.edu
 
