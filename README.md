@@ -9,7 +9,7 @@ Where: St. Olaf College, Northfield, MN
 
 4:00-4:30 Socializing and Hors d'Oeuvres
 
-4:30-5:30 Breakout Session #1: [Designing effective in-class learning activities](breakout_activities)
+4:30-5:30 Breakout Session #1: [Designing effective in-class learning activities](breakout_activities.md)
 
 5:30-6:00 Dinner
 
