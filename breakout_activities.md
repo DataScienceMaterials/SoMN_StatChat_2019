@@ -9,7 +9,7 @@
 - Chris Malone, Winona State University
     - activities and thoughts on teaching with data verbs for data management
     
- #### Breakout group feedback
+#### Breakout group feedback
  
  - Please submit a short summary of your group's discussion in this [google form](https://forms.gle/NZLPSreRhXF6ft4A9).
  - Responses from this breakout session are linked [here]().
