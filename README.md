@@ -3,7 +3,9 @@
 
 When: April 26, 2019
 
-Where: St. Olaf College, Northfield, MN
+Where: St. Olaf College, Northfield, MN, 55057
+
+Location: Room 210, [Regents Hall of Natural Sciences](http://map.stolaf.edu/map/?id=294#!ct/14990,14884,15145,14965,14989,14877,15789,14874?ce/14874?m/135445) (parking lot M or Old Main)
 
 ## Schedule:
 
@@ -17,17 +19,21 @@ Where: St. Olaf College, Northfield, MN
 
 7:00-8:00  Breakout Session #2: [Assessment of learning outcomes](breakout_assessment.md)
 
-8:00  Informal Social gathering at Imminent Brewing in Northfield following the program.
+8:00  Informal Social gathering at [Imminent Brewing](http://www.imminentbrewing.com/) in Northfield following the program.
 
 
 ## Organizers:
 
-Adam Loy, Carleton College, email: aloy at carleton.edu
+Adam Loy, Carleton College, email: aloy@carleton.edu
 
-Paul Roback, St. Olaf College, email: roback at stolaf.edu
+Paul Roback, St. Olaf College, email: roback@stolaf.edu
 
-Katie St. Clair, Carleton College, email: kstclair at carleton.edu
+Katie St. Clair, Carleton College, email: kstclair@carleton.edu
+
+## Collaboration:
+
+The Github repository for this web site is in the private Github oraganization [DataScienceMaterials](https://github.com/DataScienceMaterials). This organization houses repositories containing course materials (assignments, solutions, slides, etc) for undergraduate level data science courses. Email Katie or Paul to be added to this organization so you can access existing material and contribute your own material.
 
 ## Support:
 
-This meeting is supported by the Andrew W. Mellon Foundation's "Broadening the Bridge" grant to Carleton College and St. Olaf College. 
+This meeting and development of the Data Science Materials organization is supported by the Andrew W. Mellon Foundation's "Broadening the Bridge" grant to Carleton College and St. Olaf College. 
