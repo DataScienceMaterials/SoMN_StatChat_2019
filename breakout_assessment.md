@@ -6,6 +6,7 @@
 
 - Todd Iverson, Winona State University
     - assessing student code
+    - [slides](Iverson_evaluating_names_in_code_with_extras.pptx)
 - Wei Wei, Metropolitan  State University 
     - thoughts assessment from a first-time data science instructor
     
