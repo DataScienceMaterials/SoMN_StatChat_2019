@@ -27,3 +27,7 @@ Adam Loy, Carleton College, email: aloy at carleton.edu
 Paul Roback, St. Olaf College, email: roback at stolaf.edu
 
 Katie St. Clair, Carleton College, email: kstclair at carleton.edu
+
+## Support:
+
+This meeting is supported by the Andrew W. Mellon Foundation's "Broadening the Bridge" grant to Carleton College and St. Olaf College. 
