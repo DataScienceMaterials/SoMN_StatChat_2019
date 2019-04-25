@@ -1,5 +1,5 @@
-## Southern Minnesota Stat Chat 2019
-### Data Science Pedagogy
+# Southern Minnesota Stat Chat 2019
+## Data Science Pedagogy
 
 When: April 26, 2019
 
