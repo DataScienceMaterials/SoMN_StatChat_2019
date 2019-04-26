@@ -8,8 +8,9 @@
 
 - Smith: [SDS 192](https://beanumber.github.io/sds192/), Introduction to Data Science
 - Smith: [SDS 136](http://www.amelia.mn/sds136/), Communicating with Data
+- (More on [handmade data viz](www.bit.ly/VizByHand))
 - Smith: [SDS 236](http://www.amelia.mn/sds236/index.html), Data Journalism
-- (More on [handmade data viz](bit.ly/VizByHand))
+- (A data journalism assignment-- [one-number story](http://www.amelia.mn/sds236/OneNumberStory.html))
 - University of St Thomas: Data Communication (coming Spring 2020)
 
 ### One thought about data manipulation verbs
