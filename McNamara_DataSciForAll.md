@@ -2,15 +2,15 @@
 
 ### Data Science at the high school level
 
-- [Mobilize](https://www.introdatascience.org/)
+- [Mobilize](https://www.introdatascience.org/)-- curriculum available for free if you enter your information
 
 ### Data science at the college level
 
 - Smith: [SDS 192](https://beanumber.github.io/sds192/), Introduction to Data Science
 - Smith: [SDS 136](http://www.amelia.mn/sds136/), Communicating with Data
-- (More on [handmade data viz](http://www.bit.ly/VizByHand))
+    - (More on [handmade data viz](http://www.bit.ly/VizByHand))
 - Smith: [SDS 236](http://www.amelia.mn/sds236/index.html), Data Journalism
-- (A data journalism assignment-- [one-number story](http://www.amelia.mn/sds236/OneNumberStory.html))
+    - (A data journalism assignment-- [one-number story](http://www.amelia.mn/sds236/OneNumberStory.html))
 - University of St Thomas: Data Communication (coming Spring 2020)
 
 ### One thought about data manipulation verbs
