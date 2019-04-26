@@ -9,6 +9,7 @@
     - [slides](Iverson_evaluating_names_in_code_with_extras.pptx)
 - Wei Wei, Metropolitan  State University 
     - thoughts assessment from a first-time data science instructor
+    - [slides](Wei_Southern_Stat_Chat.pptx)
     
 ### Breakout group questions
 
