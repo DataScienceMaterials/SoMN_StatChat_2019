@@ -8,5 +8,6 @@
 
 - Smith: [SDS 192](https://beanumber.github.io/sds192/), Introduction to Data Science
 - Smith: [SDS 136](http://www.amelia.mn/sds136/), Communicating with Data
+- Smith: [SDS 236](http://www.amelia.mn/sds236/index.html), Data Journalism
 - (More on [handmade data viz](bit.ly/VizByHand))
 - University of St Thomas: Data Communication (coming Spring 2020)
