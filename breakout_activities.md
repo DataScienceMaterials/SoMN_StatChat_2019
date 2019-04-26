@@ -6,6 +6,7 @@
 
 - Amelia McNamara, St. Thomas University
     - activities and thoughts on teaching a "data science for all" course
+    - [slides](Malone_Presentation_DataVerbs.pptx)
 - Chris Malone, Winona State University
     - activities and thoughts on teaching with data verbs for data management
 
