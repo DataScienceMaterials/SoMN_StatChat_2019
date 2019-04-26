@@ -15,7 +15,7 @@ Location: Room 210, [Regents Hall of Natural Sciences](http://map.stolaf.edu/map
 
 5:30-6:00 Dinner
 
-6:00-7:00 Keynote Speaker: [Charlotte Wickham](https://www.cwick.co.nz/) "The human side of data science"
+6:00-7:00 Keynote Speaker: [Charlotte Wickham](https://www.cwick.co.nz/) "The human side of data science"[[Slides]](https://github.com/cwickham/human-side/raw/master/human-side-of-data-science.pdf) [[GitHub]](https://github.com/cwickham/human-side)
 
 7:00-8:00  Breakout Session #2: [Assessment of learning outcomes](breakout_assessment.md)
 
